@@ -1,1 +1,5 @@
+
 Fichero conflictivo desde eclipse
+=======
+Fichero conflictivo desde github
+
